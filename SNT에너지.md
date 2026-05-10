@@ -9,6 +9,9 @@
 <img width="611" height="568" alt="image" src="https://github.com/user-attachments/assets/95efd86f-abba-4234-8cd9-9d0b853f0948" />
 <img width="606" height="569" alt="image" src="https://github.com/user-attachments/assets/8822518e-a245-43bb-9585-406421435efc" />
 
+=> 대미투자특별법이 6월 이후 시행되는 만큼 이후 구체적인 논의 내용이 보일 듯.
+   그 때까지 저점 매수로 대응
+
 
 
 2026.4.16(키맨) - 종가 55000
