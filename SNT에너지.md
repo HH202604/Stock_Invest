@@ -1,3 +1,16 @@
+2026.5.10(내가 조사)
+ - 주가 56800원
+ - 시총 1조 1747억
+
+  - 클로드 분석 요약
+<img width="941" height="446" alt="image" src="https://github.com/user-attachments/assets/6a22edcf-9350-4248-94c8-660deb2effe8" />
+<img width="937" height="582" alt="image" src="https://github.com/user-attachments/assets/553c69e6-32bc-4037-a057-8245f8015476" />
+
+<img width="611" height="568" alt="image" src="https://github.com/user-attachments/assets/95efd86f-abba-4234-8cd9-9d0b853f0948" />
+<img width="606" height="569" alt="image" src="https://github.com/user-attachments/assets/8822518e-a245-43bb-9585-406421435efc" />
+
+
+
 2026.4.16(키맨) - 종가 55000
 LNG 수혜
 MASGA 1호 프로젝트 공식화 임박
