@@ -1,3 +1,9 @@
+최대 투자 금액 : 300만원
+목표가 : 25달러 (목표가 도달시 절반 배도 후 홀딩 To the moon )
+손절가 : 17 달러 ( 주가 움익임이 커서 7% 넘게 잡았음 )
+
+
+
 2026.5.21(김기훈 대표)
 <img width="1200" height="243" alt="image" src="https://github.com/user-attachments/assets/3f7deedf-af7d-451b-882e-89096e0be80a" />
 
