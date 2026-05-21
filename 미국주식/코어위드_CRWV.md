@@ -1,3 +1,11 @@
+2026.5.22 (김기훈 대표)
+<img width="1209" height="277" alt="image" src="https://github.com/user-attachments/assets/75e3fa4d-d423-4d07-9fda-867452c918c4" />
+
+
+
+
+
+
 2026.5.8 (김기훈 대표)
 
 고점가 대비 많이 낮아진 상황.
