@@ -1,3 +1,7 @@
+2026.5.21(김기훈 대표)
+<img width="1200" height="243" alt="image" src="https://github.com/user-attachments/assets/3f7deedf-af7d-451b-882e-89096e0be80a" />
+
+
 2026.5.8(김기훈 대표)
  - 비중국 텅스텐 시장에 비중이 큼
  - 26년/27년에 매출과 성장의 원년이 됨 =? 27/28년으로 가면 저 PER주가 됨.
