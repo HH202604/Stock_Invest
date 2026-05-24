@@ -11,6 +11,7 @@
 
 
 2026.5.21 (김기훈 대표)
+ - 하반기를 본다면 여전히 좋게 봄.
 <img width="1209" height="277" alt="image" src="https://github.com/user-attachments/assets/75e3fa4d-d423-4d07-9fda-867452c918c4" />
 
 
