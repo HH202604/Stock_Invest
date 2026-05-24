@@ -9,6 +9,11 @@
 2026.5.21(김기훈 대표)
 <img width="1200" height="243" alt="image" src="https://github.com/user-attachments/assets/3f7deedf-af7d-451b-882e-89096e0be80a" />
 
+단기 급락
+ - 중미 회담의 영향.
+
+알몬티는 실적주기 때문에 급락이 매수 기회가 될 수 있음.
+
 
 2026.5.8(김기훈 대표)
  - 비중국 텅스텐 시장에 비중이 큼
