@@ -1,4 +1,11 @@
-2026.4.20(키맨)
+2026.05.25(MY) - 13600원
+AI분석
+<img width="856" height="638" alt="image" src="https://github.com/user-attachments/assets/5b3e7635-74f2-45ad-966c-b1b3d35fd7f5" />
+
+
+
+
+2026.4.20(키맨) - 15600원
 <img width="1156" height="564" alt="image" src="https://github.com/user-attachments/assets/6f6bbe16-4fa1-4f85-896b-171af686e834" />
 <img width="1132" height="521" alt="image" src="https://github.com/user-attachments/assets/b3efa718-889f-4b38-ac27-b13207fbdb59" />
 
