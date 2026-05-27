@@ -6,12 +6,12 @@
 
 
 
-## 클로드 분석 결과
+### 클로드 분석 결과
 
 <img width="790" height="367" alt="image" src="https://github.com/user-attachments/assets/141b7efb-88a2-4d6f-9b8b-68ac4ce3fe35" />
 
 
 
-## **ACtion To Do.**
+### **ACtion To Do.**
 
 절반 매도 (50% ) 후 엔화로 보유. 금리 인상 => 엔화 강세로 환차익 가능
