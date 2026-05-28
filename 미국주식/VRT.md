@@ -1,3 +1,7 @@
+2026.5.28
+ 1주 매수 - 320 달러.
+ 추매 가격 - 
+
 2026.5.22(Mu)
  - 클로드 활용 차트 분석결과
  <img width="1101" height="589" alt="image" src="https://github.com/user-attachments/assets/25d4958d-9a1e-43cf-8c0e-9257837a3a5e" />
