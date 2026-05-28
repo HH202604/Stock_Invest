@@ -1,8 +1,11 @@
-2026.5.28
+## 2026.5.28
+ 
  1주 매수 - 320 달러.
  추매 가격 - 
 
-2026.5.22(Mu)
+
+
+## 2026.5.22(Mu)
  - 클로드 활용 차트 분석결과
  <img width="1101" height="589" alt="image" src="https://github.com/user-attachments/assets/25d4958d-9a1e-43cf-8c0e-9257837a3a5e" />
 <img width="1128" height="739" alt="image" src="https://github.com/user-attachments/assets/2e1754ec-8c2b-4e16-8e67-28985b759519" />
@@ -13,7 +16,7 @@
 
 
 
-2026.5.21 (김기훈 대표)
+## 2026.5.21 (KB 프라밈클럽 / 김기훈 대표)
 
 <img width="1283" height="323" alt="image" src="https://github.com/user-attachments/assets/e2779175-0834-4db2-b824-f31968798812" />
 
