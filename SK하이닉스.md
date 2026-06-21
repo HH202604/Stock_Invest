@@ -1,4 +1,10 @@
 
+1. 투자 목표 금액 2000만원
+2. 26년 말까지 보유
+3. 매도 : PER10이상이 부분 매도 시작
+   
+
+
 26.5.18
 <img width="1126" height="600" alt="image" src="https://github.com/user-attachments/assets/4788fba3-4845-455d-ba39-d7e88e62ae45" />
 
